@@ -3,3 +3,7 @@ def simple():
 simple()
 
 Create a branch named 'dev' now..
+
+Make a new file named 'notes' and try making your notes there.
+Like you can try commands for viewing all branches, deleting a branch, push file to staging area, committing it, pushing it to server.
+Then maybe you can try revert, reset and rebase etc as well.
